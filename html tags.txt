@@ -11,4 +11,7 @@ Tag     : কাজ
 <p>:   paragraph                 
 <a>:   link তৈরি করে               
 <img>:  image দেখায়                 
-<br> : line break                  
+<br> : line break   
+NB: akhane sobgulo tag ar i opening and closeing duita tag i ache.
+but <a> ar kono closeing tag nai
+               
