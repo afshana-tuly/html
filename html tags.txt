@@ -1,0 +1,14 @@
+HTML tags HTNL Tags:
+HTML tagsহলো HyperText Markup Language (HTML) এর মূল building block। 
+এগুলো দিয়ে web page-এর structure তৈরি করা হয়।
+examples:
+Tag     : কাজ                       
+<html> :  পুরো HTML document শুরু করে 
+<head>:  metadata রাখে               
+<title>:  page-এর title দেয়          
+<body> :  main content থাকে           
+<h1>to<h6>:heading                     
+<p>:   paragraph                 
+<a>:   link তৈরি করে               
+<img>:  image দেখায়                 
+<br> : line break                  
