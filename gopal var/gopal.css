@@ -1,0 +1,15 @@
+body{
+background-color:black;
+ 
+font-family: Arial, sans-serif;
+ margin: 0; 
+ padding: 0;
+ h1,p{
+  color:whitesmoke;
+ }
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
